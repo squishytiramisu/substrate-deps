@@ -18,6 +18,9 @@ Install `substrate-deps` locally with:
 cargo install substrate-deps
 ```
 
+## substrate-deps graph --manifest-path ./Cargo.toml | dot -Tpng > graph.png
+
+
 ## Commands
 
 ### `substrate-deps add`
